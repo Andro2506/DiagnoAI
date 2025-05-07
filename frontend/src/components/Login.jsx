@@ -72,3 +72,8 @@ const Login = () => {
 };
 
 export default Login;
+
+// sohamd7257@gmail.com -> 12345
+// sohamd69096@gmail.com -> 1234
+// admin@example.com -> 1234
+// galaxtommy@gmail.com -> 1234
